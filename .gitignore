@@ -1,0 +1,8 @@
+# Optimization files
+__pycache__/
+
+# The API Key (obviously)
+api.key
+
+# jupyter notebooks for those special people
+.ipynb_checkpoints/
