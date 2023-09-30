@@ -9,15 +9,27 @@ I have no idea why I am doing this but I will be following the basic ideas of Se
 
 Layout (This is the planned structure of the project, not what it will eventually turn out to be):
 pywe/
+
 |
+
 |- pywe/
+
 |   |- __init__.py
+
 |   |- __main__.py
+
 |   |- cli.py
+
 |   |- config.py
+
 |   |- pywe.py
+
 |   |_ api.key (**Not to be included in the git repository**)
+
 |
+
 |- README.md
+
 |
+
 |_ requirements.txt
